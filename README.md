@@ -21,6 +21,10 @@ The file shows the errors of the analyst's Entries.
 - Formulas, Functions, Pivot.
 
 ---
+## This project contains two file's they are based on same principle and works similarly
+- File- Everyone's Entries works for many people and file- Analyst Daily Tracker, works for one person and for report.
+  
+--- 
 
 ## 🚀 How It Works
 1. Input raw data in the designated sheet.  
